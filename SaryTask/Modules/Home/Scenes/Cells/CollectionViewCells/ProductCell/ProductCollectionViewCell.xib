@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21678"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ProductCollectionViewCell" customModule="SaryTask" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="156" height="140"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="156" height="140"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="car" translatesAutoresizingMaskIntoConstraints="NO" id="NCs-ys-Mzm">
+                        <rect key="frame" x="0.0" y="0.0" width="156" height="140"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="NCs-ys-Mzm" secondAttribute="bottom" id="5oU-kh-JEZ"/>
+                <constraint firstItem="NCs-ys-Mzm" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="LeJ-O2-nMG"/>
+                <constraint firstItem="NCs-ys-Mzm" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="fbI-gO-hCZ"/>
+                <constraint firstAttribute="trailing" secondItem="NCs-ys-Mzm" secondAttribute="trailing" id="gQO-jd-Dsu"/>
+            </constraints>
+            <size key="customSize" width="156" height="146"/>
+            <connections>
+                <outlet property="productImage" destination="NCs-ys-Mzm" id="G9z-DJ-pr4"/>
+            </connections>
+            <point key="canvasLocation" x="91.603053435114504" y="53.521126760563384"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="car" width="420" height="280"/>
+    </resources>
+</document>

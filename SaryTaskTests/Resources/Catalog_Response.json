@@ -1,0 +1,325 @@
+{
+    "message": "تم استرجاع البيانات بنجاح",
+    "status": true,
+    "result": [
+        {
+            "id": 3,
+            "metadata": {
+                "title": "Smart groups",
+                "sub_title": "",
+                "consumable_display": null,
+                "country": {
+                    "name": "Egypt",
+                    "code": "EG"
+                }
+            },
+            "title": "",
+            "subtitle": "",
+            "data": [
+                {
+                    "metadata": {
+                        "title": "Reorder Items",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 86,
+                    "group_type": "personalizedgroup",
+                    "name": "طلبتها سابقا",
+                    "image": "https://testing-sary.imgix.net/layout_groups/2021/05/01/PREV_6CVtSZx.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": true
+                },
+                {
+                    "metadata": {
+                        "title": "Offers",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 260,
+                    "group_type": "personalizedgroup",
+                    "name": "عروض التوفير",
+                    "image": "https://testing-sary.imgix.net/layout_groups/2021/05/01/saving_bu7Yqrn.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": true
+                },
+                {
+                    "metadata": {
+                        "title": "Best Sellers",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 87,
+                    "group_type": "personalizedgroup",
+                    "name": "الأكثر مبيعاً",
+                    "image": "https://testing-sary.imgix.net/layout_groups/2021/05/01/HOT_L6VFFDr.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": true
+                }
+            ],
+            "data_type": "smart",
+            "show_title": false,
+            "ui_type": "grid",
+            "row_count": 4,
+            "show_more_enabled": false,
+            "display_page": "Both",
+            "countries": [],
+            "cities": [],
+            "excluded_business_segments": []
+        },
+        {
+            "id": 147,
+            "metadata": {
+                "title": "Categories",
+                "sub_title": "",
+                "consumable_display": null,
+                "country": {
+                    "name": "Egypt",
+                    "code": "EG"
+                }
+            },
+            "title": "الاقسام",
+            "subtitle": "",
+            "data": [
+                {
+                    "image": "https://testing-sary.imgix.net/%D8%A8%D9%82%D8%A7%D9%84%D8%A9_BV8aGKm.png",
+                    "deep_link": "sary://sary.com/group?id=641"
+                },
+                {
+                    "image": "https://testing-sary.imgix.net/%D9%85%D8%A7%D9%83%D9%88%D9%84%D8%A7%D8%AA_%D8%A7%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_3lGyQKg.png",
+                    "deep_link": "sary://sary.com/group?id=598"
+                }
+            ],
+            "data_type": "banner",
+            "show_title": true,
+            "ui_type": "linear",
+            "row_count": 3,
+            "show_more_enabled": true,
+            "display_page": "Home Page",
+            "countries": [],
+            "cities": [],
+            "excluded_business_segments": []
+        },
+        {
+            "id": 1,
+            "metadata": {
+                "title": "By Category",
+                "sub_title": "",
+                "consumable_display": null,
+                "country": {
+                    "name": "Egypt",
+                    "code": "EG"
+                }
+            },
+            "title": "الأقسام",
+            "subtitle": "",
+            "data": [
+                {
+                    "metadata": {
+                        "title": "Beverages",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 12,
+                    "group_type": "regulargroup",
+                    "name": "مشروبات",
+                    "image": "https://testing-sary.imgix.net/%D8%A8%D9%82%D8%A7%D9%84%D8%A9_%D9%85%D8%B4%D8%B1%D9%88%D8%A8%D8%A7%D8%AA.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                },
+                {
+                    "metadata": {
+                        "title": "Baking ( Old )",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 97,
+                    "group_type": "regulargroup",
+                    "name": "لوازم الخبز ( Old )",
+                    "image": "https://testing-sary.imgix.net/%D9%84%D9%88%D8%A7%D8%B2%D9%85_%D8%A7%D9%84%D8%AE%D8%A8%D8%B2.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                },
+                {
+                    "metadata": {
+                        "title": "Diary",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 111,
+                    "group_type": "regulargroup",
+                    "name": "حليب وأجبان",
+                    "image": "https://testing-sary.imgix.net/%D8%AD%D9%84%D9%8A%D8%A8_%D9%88%D8%A3%D8%AC%D8%A8%D8%A7%D9%86_CyZYJC0.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                },
+                {
+                    "metadata": {
+                        "title": "Bakery",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 101,
+                    "group_type": "regulargroup",
+                    "name": "المخبوزات",
+                    "image": "https://testing-sary.imgix.net/%D8%A7%D9%84%D9%85%D8%AE%D8%A8%D9%88%D8%B2%D8%A7%D8%AA_To2HKWb.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                },
+                {
+                    "metadata": {
+                        "title": "Breakfast",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 55,
+                    "group_type": "regulargroup",
+                    "name": "فطور",
+                    "image": "https://testing-sary.imgix.net/%D9%81%D8%B7%D9%88%D8%B1_KaSsnBD.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                },
+                {
+                    "metadata": {
+                        "title": "Bath & Body (old)",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 14,
+                    "group_type": "regulargroup",
+                    "name": "صحة و جمال (قديم)",
+                    "image": "https://testing-sary.imgix.net/%D8%B5%D8%AD%D8%A9_%D9%88_%D8%AC%D9%85%D8%A7%D9%84_ydn09f7.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                },
+                {
+                    "metadata": {
+                        "title": "Baby",
+                        "sub_title": null,
+                        "consumable_display": null,
+                        "country": {
+                            "name": "Egypt",
+                            "code": "EG"
+                        }
+                    },
+                    "group_id": 17,
+                    "group_type": "regulargroup",
+                    "name": "الأطفال",
+                    "image": "https://testing-sary.imgix.net/%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
+                    "header": null,
+                    "visuals": false,
+                    "thumb_img": null,
+                    "is_must_refresh": false
+                }
+            ],
+            "data_type": "group",
+            "show_title": true,
+            "ui_type": "grid",
+            "row_count": 3,
+            "show_more_enabled": false,
+            "display_page": "Both",
+            "countries": [],
+            "cities": [],
+            "excluded_business_segments": []
+        },
+        {
+            "id": 434,
+            "metadata": {
+                "title": "Bundle Deals 1",
+                "sub_title": "Use code 1234",
+                "consumable_display": null,
+                "country": {
+                    "name": "Egypt",
+                    "code": "EG"
+                },
+                "group_name": "Bundle Deals"
+            },
+            "title": "عروض الباندل 1",
+            "subtitle": "استخدم كود 1234",
+            "data": [],
+            "data_type": "sku",
+            "show_title": true,
+            "ui_type": "linear",
+            "row_count": 1,
+            "show_more_enabled": true,
+            "display_page": "Home Page",
+            "countries": [],
+            "cities": [],
+            "excluded_business_segments": [],
+            "group_id": 2464,
+            "items_count": 4,
+            "is_must_refresh": true
+        }
+    ],
+    "other": {
+        "show_special_order_view": true,
+        "uncompleted_profile_settings": {
+            "show_tag": false,
+            "message": "اضغط هنا لإكمال معلومات الحساب",
+            "image": "https://testing-sary.imgix.net/uncompleted_profile/2020/05/Combined_Shape.png",
+            "is_completed_profile": false
+        },
+        "show_vat": true,
+        "header": {
+            "image": "",
+            "type": "standard"
+        },
+        "business_status": {
+            "id": 7,
+            "title": "موظف ساري"
+        }
+    }
+}

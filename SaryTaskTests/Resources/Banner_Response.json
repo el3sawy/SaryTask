@@ -1,0 +1,38 @@
+{
+    "message": "تم استرجاع البيانات بنجاح",
+    "status": true,
+    "result": [
+        {
+            "metadata": {
+                "title": "Show Prices",
+                "country": {
+                    "name": "Egypt",
+                    "code": "EG"
+                }
+            },
+            "id": 1800,
+            "title": "اعلان",
+            "description": "Test announcement",
+            "button_text": "شيك على المنتجات",
+            "expiry_status": false,
+            "created_at": "2022-08-23",
+            "start_date": "18/06/2022",
+            "expiry_date": "22/06/2023",
+            "image": "https://testing-sary.imgix.net/banners/ar/2022/08/Flash_Offer_-_F2211A_-15_Mar_MAD_Announcement_ENG.png",
+            "photo": "https://testing-sary.imgix.net/Flash_Offer_-_F2211A_-15_Mar_MAD_Announcement_ENG_sc6FwrR.png",
+            "promo_code": "bt2022",
+            "is_available": true,
+            "priority": 500,
+            "level": "global",
+            "branches": [
+                262,
+                210
+            ],
+            "cities": [
+                33,
+                24,
+                63
+            ]
+        }
+    ]
+}
